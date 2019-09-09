@@ -1,4 +1,4 @@
-## Lightweight_Baseline_Pedestrain_Detection
+## Lightweight_Baseline_Pedestrian_Detection
 Caffe prototext file of the lightweight baseline for pedestrian detection proposed in [Auto-Zooming CNN-Based Framework for Real-Time Pedestrian Detection in Outdoor Surveillance Videos](https://ieeexplore.ieee.org/document/8781786)
 by:
 
