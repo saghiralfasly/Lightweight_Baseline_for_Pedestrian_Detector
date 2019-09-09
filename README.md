@@ -17,3 +17,15 @@ Far pedestrian detection performance is shown in the video demo in [IEEE Xplore.
 
 
 Note: the prototext file contains the baseline without prediction part.
+
+### Work citation
+```
+@ARTICLE{8781786, 
+author={S. {Alfasly} and B. {Liu} and Y. {Hu} and Y. {Wang} and C. {Li}}, 
+journal={IEEE Access}, 
+title={Auto-Zooming CNN-Based Framework for Real-Time Pedestrian Detection in Outdoor Surveillance Videos}, 
+year={2019}, 
+volume={7}, 
+pages={105816-105826}, 
+doi={10.1109/ACCESS.2019.2931915}}
+```
